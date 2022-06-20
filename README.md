@@ -2,7 +2,7 @@
 
 ### Hello there, Ray here! 👋
 
-My name is Ray and I am a frontend developer and hopefully in a year or two becomes a full stack developer. I am based in London and currently working in Finance.
+My name is Ray and I am a frontend developer and doing a little bit of backend so hopefully in a year or two becomes a fully pledged stack developer. I am based in London and currently working in Finance.
 
 ## 🔧 Technologies and tools I'm currently using
 
